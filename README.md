@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## dependencies
+
+###
+https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/react.html
+
+### install
+npm install --save @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic
+
 ## Available Scripts
 
 In the project directory, you can run:
