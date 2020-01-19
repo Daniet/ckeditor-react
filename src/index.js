@@ -13,3 +13,8 @@ export const Export = () => <Editor />
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 // serviceWorker.unregister();
+// npm install --save https://github.com/Daniet/ckeditor-react.git
+
+// npx create-react-app my-app
+// cd my-app
+// npm start
