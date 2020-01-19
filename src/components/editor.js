@@ -20,7 +20,7 @@ function Editor() {
           const data = editor.getData();
           // console.log({ isSend, editor })
           if(isSend) console.log( { event, isSend, editor, data } );
-          isSend = false
+          else isSend = false
           setTimeout(() => { isSend = true }, 800)
         } }
         onBlur={ ( event, editor ) => {
